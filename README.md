@@ -121,11 +121,12 @@ There are a few third-party UIs that you can use for monitoring:
 **BullMQ**
 
 - [Taskforce](https://taskforce.sh)
+- [bull-board](https://github.com/felixmosh/bull-board)
 
 **Bull v3**
 
 - [Taskforce](https://taskforce.sh)
-- [bull-board](https://github.com/vcapretz/bull-board)
+- [bull-board](https://github.com/felixmosh/bull-board)
 - [bull-repl](https://github.com/darky/bull-repl)
 
 **Bull <= v2**
